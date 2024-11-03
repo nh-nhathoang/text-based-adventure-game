@@ -71,4 +71,4 @@ Contributions are welcome! If you have suggestions for improvements or features,
 
 ## Acknowledgments
 
-- Thank you for playing the Adventure Game! Enjoy your adventure!
+Thank you for playing the Adventure Game! Enjoy your adventure!
